@@ -1,0 +1,3 @@
+pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn xgboost shap joblib
+
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn 
